@@ -15,3 +15,4 @@ public class DTOValid {
     @Min(value = 18, message = "年龄不能大于18")
     private Integer age;
 }
+
